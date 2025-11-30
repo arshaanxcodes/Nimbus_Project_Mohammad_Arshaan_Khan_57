@@ -49,6 +49,6 @@ Ends the program.
 
 # Team Contribution Summary
 
-Yash	- Struct design, Add & List
-Aradhana -	Age update, Auto escalation
-Arshaan	- Reports, Menu system & Integration
+1) Yash	- Struct design, Add & List
+2) Aradhana -	Age update, Auto escalation
+3) Arshaan	- Reports, Menu system & Integration
