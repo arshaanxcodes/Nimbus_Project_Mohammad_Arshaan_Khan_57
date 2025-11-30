@@ -46,7 +46,7 @@ Filter incidents based on their current status.
 
 Ends the program.
 
-#Output
+# Output Screen
 
 <img width="1230" height="858" alt="image" src="https://github.com/user-attachments/assets/a4698fc8-a039-43d1-ac90-10a7ae47c921" />
 
